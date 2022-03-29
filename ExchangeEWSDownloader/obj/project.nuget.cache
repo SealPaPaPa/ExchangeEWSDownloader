@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "bfsFK0tisFg2lso3dDGB9kt2aJ1Nbs+05ySS7kesxazNADgZ89kEPhvReeiuNJplu7pWu5V4teM4/geLHPtkQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\ExchangeEWSDownloader\\ExchangeEWSDownloader\\ExchangeEWSDownloader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.exchange.webservices\\2.2.0\\microsoft.exchange.webservices.2.2.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' 而非專案目標架構 'net6.0' 還原了套件 'Microsoft.Exchange.WebServices 2.2.0'。此套件與您的專案並非完全相容。",
+      "libraryId": "Microsoft.Exchange.WebServices",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
